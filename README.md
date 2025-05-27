@@ -11,7 +11,7 @@
 [![Unity Essentials Pathway](https://img.shields.io/badge/Unity-Essentials%20Pathway-000000?style=for-the-badge&logo=unity&logoColor=white)](https://www.credly.com/badges/31334d41-116c-435a-bda2-1c67d149df03/public_url)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RandomGameCoder&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=RandomGameCoder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RandomGameCoder&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RandomGameCoder&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
