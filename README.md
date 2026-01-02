@@ -1,7 +1,13 @@
 # RandomGameCoder
 
 # 💫 About Me:
-🔭 I’m currently working on a website for myself<br>🌱 I’m currently learning AI and Game Development with Unity
+👋 Hi, I’m Govind S Sarath
+
+I’m a developer with a strong interest in game development, robotics, and systems programming. I enjoy breaking down complex systems, understanding how things work under the hood, and building projects that are both practical and well-structured.
+
+- 🎮 Game dev enthusiast — focused on mechanics, architecture, and performance
+- 🤖 Robotics learner — working with ROS 2, Gazebo, and simulation plugins
+- 🛠️ Systems mindset — I like clean abstractions, modular design, and efficiency
 
 
 # 💻 Tech Stack:
